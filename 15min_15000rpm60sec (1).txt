@@ -1,0 +1,124 @@
+Filename	15min_15000rpm60sec (1)
+Instrument name	5332-2365
+Operator	harahata
+rundate	2023/04/21
+proceduresegments	Frequency sweep
+[File Parameters]
+Name	15min_15000rpm60sec (1)
+Instrument type	Discovery HR-2
+Instrument serial number	5332-2365
+Instrument name	5332-2365
+Instrument location	NOT_SET
+Company name	kyushu-u
+Trios version	4.3.0.38388
+File name	C:\Users\kyushu-u\Desktop\Harahata\230421\15min_15000rpm60sec (1).tri
+Instrument firmware version	9.46
+Run date	2023/04/21 13:55:41
+Time at start of test	66.5000
+[Instrument Options]
+ETC camera available	no
+Friction	0.278357 µN.m/(rad/s)
+Friction calibration date	2023/04/21 13:31:12
+Friction correction enabled	yes
+Rotational mapping date	2023/04/21 13:44:51
+Rotational mapping geometry	40mm 1.002° cone plate, Peltier plate Aluminium  - 113924
+Rotational mapping number of iterations	2
+Rotational mapping type	precision
+Smart swap enabled	yes
+[Temperature Options]
+Current temperature system compensation	0.00000 µm/°C
+Current temperature system offset	0.000 °C
+Current temperature system span	1.000
+Gap temperature compensation calibration date	0001/01/01 0:00:00
+Gap temperature compensation enabled	no
+Purge gas only (no active cooling)	no
+Temperature control enabled	yes
+Temperature system control	Peltier plate
+Upper temperature system fitted	no
+Temperature wait duration	00:00:10 hh:mm:ss
+Temperature wait tolerance	0.200000 °C
+[Inertia Options]
+Instrument inertia	21.4272 µN.m.s²
+Instrument inertia calibration date	2022/06/22 13:37:48
+[Gap Options]
+Axial force for sample compression	1.00000 N
+Closure distance	1000.00 µm
+Closure profile	none
+Closure velocity	100.000 µm/s
+Gap velocity (coarse)	6000.00 µm/s
+Gap velocity (fine)	1000.00 µm/s
+Gap velocity (other)	6000.00 µm/s
+Gap zero mode	standard (DHR) or deceleration (AR)
+Gap handling at start of test	Flag mismatches between geometry and instrument gap
+Gap tolerance	4.00000 µm
+Gap wait duration	00:00:02 hh:mm:ss
+Override wait for gap	no
+[Axial Force Control]
+Axial force action outside range	Return to initial value
+Control axial force active	no
+Control axial force max gap change up	1000.00 µm
+Control axial force min gap change down	1000.00 µm
+Control axial force sensitivity	0.100000 N
+Control axial force set initial value	no
+Control axial force type	Compression
+Controlled axial force	1.00000 N
+[Flow Options]
+Flow collect all points	no
+Flow collect negative shear rate data	yes
+Flow inertia correction	yes
+Flow non-steady state minimum velocity	1.00000e-4 rad/s
+Flow torque limit	0.100000 µN.m
+Flow velocity limit	1.00000e-4 rad/s
+Flow velocity tolerance	5.00000 %
+Flow zero strain at start of step	yes
+[Oscillation Options]
+Oscillation displacement limit	1.00000e-5 rad
+Oscillation displacement tolerance	5.00000 %
+Oscillation raw phase limit	170.000 °
+Oscillation torque limit	0.100000 µN.m
+Oscillation torque tolerance	1.00000 %
+Oscillation velocity tolerance	5.00000 %
+[Conditioning Options]
+Zero axial force before run	no
+Zero speed after preshear	Leave as is
+Zero velocity threshold	0.100000 rad/s
+[Experiment all steps options]
+Maximum axial force limit	50.0000 N
+Minimum axial force limit	0.100000 N
+Temperature tolerance (results)	1.00000 °C
+[step]
+Frequency sweep - 1
+Storage modulus	Loss modulus	Tan(delta)	Angular frequency	Oscillation torque	Step time	Temperature	Raw phase	Oscillation displacement	Complex viscosity
+Pa	Pa		rad/s	µN.m	s	°C	°	rad	Pa.s
+4.14935e-3	4.42081e-3	1.06542	0.100000	9.86711e-3	65.7700	24.998	48.6294	1.74816e-3	0.0606306
+3.36481e-3	2.76777e-3	0.822563	0.125892	6.79083e-3	119.490	24.997	43.0853	1.74921e-3	0.0346081
+3.10293e-3	2.07195e-3	0.667739	0.158490	5.38933e-3	162.730	24.989	40.1047	1.74880e-3	0.0235417
+3.02292e-3	2.25114e-3	0.744692	0.199526	5.04989e-3	197.810	25.006	48.3224	1.74869e-3	0.0188900
+2.94775e-3	1.84966e-3	0.627483	0.251189	3.82008e-3	226.400	25.018	54.2195	1.74869e-3	0.0138542
+2.11151e-3	1.43928e-3	0.681638	0.316228	2.52574e-3	250.003	25.012	107.275	1.74891e-3	8.08084e-3
+2.17843e-3	1.89891e-3	0.871689	0.398107	4.47394e-3	269.378	24.986	134.675	1.74861e-3	7.25905e-3
+2.07016e-3	1.81098e-3	0.874805	0.501188	7.90885e-3	285.602	24.993	157.435	1.74905e-3	5.48794e-3
+2.30496e-3	2.39434e-3	1.03878	0.630957	0.0137989	299.205	24.996	163.105	1.74808e-3	5.26741e-3
+1.96560e-3	1.89092e-3	0.962008	0.794327	0.0239750	310.921	25.008	172.405	1.74900e-3	3.43371e-3
+1.90902e-3	2.26172e-3	1.18476	1.00000	0.0398941	320.811	25.008	174.545	1.75021e-3	2.95968e-3
+1.61784e-3	2.81087e-3	1.73743	1.25892	0.0654192	329.360	25.014	175.871	1.74880e-3	2.57617e-3
+8.44543e-4	2.73693e-3	3.24072	1.58490	0.106439	336.973	25.004	177.530	1.74954e-3	1.80723e-3
+6.61708e-4	2.82919e-3	4.27558	1.99526	0.169660	343.852	24.989	178.399	1.74874e-3	1.45622e-3
+-1.13534e-3	3.12647e-3	-2.75376	2.51189	0.272566	350.124	25.005	178.898	1.74916e-3	1.32419e-3
+-3.17202e-3	3.70165e-3	-1.16697	3.16229	0.434340	357.643	24.999	179.181	1.74951e-3	1.54155e-3
+-5.31736e-3	4.07926e-3	-0.767159	3.98105	0.688725	364.554	25.007	179.431	1.74927e-3	1.68343e-3
+-9.26292e-3	5.15007e-3	-0.555987	5.01186	1.09249	370.809	25.016	179.547	1.74854e-3	2.11465e-3
+-0.0123609	6.84466e-3	-0.553736	6.30957	1.72858	377.455	25.017	179.620	1.74955e-3	2.23936e-3
+-0.0184107	7.43122e-3	-0.403636	7.94327	2.73828	384.256	24.990	179.739	1.74999e-3	2.49946e-3
+-0.0233043	9.53213e-3	-0.409029	10.0001	4.32869	391.167	25.027	179.789	1.74942e-3	2.51783e-3
+-0.0311951	0.0109932	-0.352402	12.5892	6.85416	397.844	25.004	179.846	1.75031e-3	2.62729e-3
+-0.0515056	0.0131419	-0.255154	15.8490	10.8671	404.802	24.998	179.884	1.75035e-3	3.35388e-3
+-0.0809635	0.0177591	-0.219346	19.9526	17.2139	411.603	24.998	179.901	1.74955e-3	4.15427e-3
+-0.136108	0.0253296	-0.186099	25.1188	27.2673	418.342	24.990	179.911	1.74776e-3	5.51161e-3
+-0.222524	0.0342785	-0.154044	31.6230	43.1521	424.941	25.008	179.924	1.74469e-3	7.11978e-3
+-0.354564	0.0482714	-0.136143	39.8105	68.2976	431.618	25.016	179.932	1.74226e-3	8.98845e-3
+-0.557050	0.0703018	-0.126204	50.1190	108.192	438.248	25.010	179.938	1.74151e-3	0.0112027
+-0.854685	0.105388	-0.123306	63.0957	171.471	444.862	25.002	179.941	1.74199e-3	0.0136484
+-1.27099	0.158716	-0.124876	79.4327	271.769	451.502	24.994	179.944	1.74293e-3	0.0161252
+-1.85727	0.246357	-0.132645	100.000	430.635	458.142	25.022	179.945	1.74362e-3	0.0187353
+
